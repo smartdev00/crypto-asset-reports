@@ -1,0 +1,30 @@
+[
+    {
+      "title": "What is market cap?",
+      "description": "For a cryptocurrency like Bitcoin, market capitalization (or market cap) is the total value of all the coins that have been mined. It's calculated by multiplying the number of coins in circulation by the current market price of a single coin."
+    },
+    {
+      "title": "What is circulating supply?",
+      "description": "Circulating supply is the total number of a specific cryptocurrency's coins or tokens in circulation on a blockchain and publicly available for the market to trade. The amount in circulation can rise or fall over time as new coins are mined or burned."
+    },
+    {
+      "title": "what is total supply in crypto?",
+      "description": "Total Supply refers to the total amount of coins or tokens of a specific cryptocurrency that have been created or mined, that are in circulation, including those that are locked or reserved."
+    },
+    {
+      "title": "what is max supply?",
+      "description": "Max supply refers to the total amount of a cryptocurrency (or maximum supply) which will ever be in circulation. For example, the max supply of Bitcoin is 21 million, because it is pre-programmed to only ever create 21 million coins.Max supply refers to the total amount of a cryptocurrency (or maximum supply) which will ever be in circulation. For example, the max supply of Bitcoin is 21 million, because it is pre-programmed to only ever create 21 million coins.Max supply refers to the total amount of a cryptocurrency (or maximum supply) which will ever be in circulation. For example, the max supply of Bitcoin is 21 million, because it is pre-programmed to only ever create 21 million coins.Max supply refers to the total amount of a cryptocurrency (or maximum supply) which will ever be in circulation. For example, the max supply of Bitcoin is 21 million, because it is pre-programmed to only ever create 21 million coins."
+    },
+    {
+      "title": "What is fully diluted market cap in crypto?",
+      "description": " A fully diluted market cap is the total value of a particular crypto asset, calculated under the assumption that all of the project's tokens have already been distributed. It's determined by multiplying the current price of an asset by its max supply."
+    },
+    {
+      "title": "What is the difference between total supply and circulating supply?",
+      "description": "Total supply refers to the total number of cryptocurrency coins or tokens created. It differs from circulating supply, as it includes coins or tokens that are locked or held in reserve, and maximum supply, which is the total number that can ever be created."
+    },
+    {
+      "title": "What is the difference between market cap and fully diluted market cap?",
+      "description": "Market cap is the total value of a crypto asset in the market. A fully diluted market cap, on the other hand, is the total value of a particular crypto asset, calculated under the assumption that all of the project's tokens have already been distributed."
+    }
+  ]
